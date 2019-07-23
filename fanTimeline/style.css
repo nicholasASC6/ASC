@@ -1,0 +1,66 @@
+html{
+    background: lavender;
+    
+}
+
+body{
+    margin: auto;
+    text-align: center;
+
+}
+
+img{
+    border: solid 3px lightcoral;
+}
+
+h1{
+    color: rgba(82, 163, 240, 0.884);
+    margin: auto;
+    border: solid 3px red;
+    width: 50%;
+    text-align: center;
+}
+
+h2{
+    font-size: 20px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+h4{
+    font-size: 20px;
+}
+
+h5{
+    font-size: 20px;
+}
+
+h6{
+    font-size: 20px;
+}
+
+i {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+
+  .down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+
+p{
+    color: rebeccapurple;
+}
+
+.grow:hover
+{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
+

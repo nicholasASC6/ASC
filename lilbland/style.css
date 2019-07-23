@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+
+div{
+    margin: auto;
+    border: solid 3px green;
+    width: 50%;
+    text-align: left;
+    background: powderblue;
+}
+
+span{
+    color: blue;
+    font-size: 55px;
+    text-transform: uppercase;
+}
+
+a{
+    color: red;
+}
