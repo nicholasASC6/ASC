@@ -11,11 +11,11 @@ function drawCircle(){
     console.log(x)
 
     if(xDirection == true && x < 570) {
-        x += .1;
+        x += 5;
     }
     else if(xDirection == false && x > 10){
         console.log('reverse');
-        x -= .1;
+        x -= 5;
     }
     if(x == 570 || x == 10) {
         xDirection = !xDirection;
